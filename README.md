@@ -1,0 +1,1 @@
+The clearScreen() system function clears the screen. You might use it before the program issues a converse statement in a text application.
