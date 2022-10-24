@@ -7,3 +7,4 @@ function solv(){
     let y = eval(x);
     document.getElementById("result").value = y;
 }
+
