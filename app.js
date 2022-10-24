@@ -8,3 +8,8 @@ function solv(){
     document.getElementById("result").value = y;
 }
 
+function clearScreen() {
+
+    document.getElementById("result").value = "";
+  
+  }
